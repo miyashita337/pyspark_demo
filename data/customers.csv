@@ -1,0 +1,11 @@
+customer_id,name,age,signup_date,segment
+1001,Watanabe,34,2023-09-15,Standard
+1002,Tanaka,61,2023-02-18,Standard
+1003,Watanabe,38,2023-09-03,Platinum
+1004,Tanaka,51,2023-08-20,Standard
+1005,Kato,32,2023-03-13,Gold
+1006,Kato,40,2023-11-10,Standard
+1007,Sato,18,2023-11-16,Gold
+1008,Tanaka,66,2023-09-08,Standard
+1009,Watanabe,31,2024-06-22,Platinum
+1010,Kato,37,2023-08-27,Platinum
